@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ansose-13.github.io/Pagina-web-procesos-de-resolucion/sitemap.xml
